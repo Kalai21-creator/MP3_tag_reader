@@ -40,11 +40,7 @@ Flags $xx xx<br>
 <br>
 ![image](https://user-images.githubusercontent.com/108017134/209990261-f107a6f3-c5bb-45c8-b52a-e0262b738e57.png)
 <br>
-![image](https://user-images.githubusercontent.com/108017134/209990273-b69dee2a-c5ad-4d45-a857-d4674331a4c5.png)
-<br>
-![image](https://user-images.githubusercontent.com/108017134/209990292-6cb785ea-d323-417c-afa8-63f3f680a970.png)
-<br>
-![image](https://user-images.githubusercontent.com/108017134/209990307-15270505-65ff-449d-aaba-c28b26c2abe3.png)
+
 
 ## References:
 [Wikipedia – ID3 Article](https://en.wikipedia.org/wiki/ID3)<br>
